@@ -19,7 +19,7 @@ public class NavigationDemo {
         System.out.println(driver.getTitle());
         Thread.sleep(1000);
         driver.navigate().forward();
-        System.out.println(driver.getTitle());
+        System.out.println(driver.getTitle());//add new changes
 
 //chrome 
 
