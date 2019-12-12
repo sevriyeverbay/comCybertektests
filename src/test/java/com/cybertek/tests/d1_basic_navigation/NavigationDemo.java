@@ -21,7 +21,7 @@ public class NavigationDemo {
         driver.navigate().forward();
         System.out.println(driver.getTitle());
 
-
+//chrome 
 
 
 
